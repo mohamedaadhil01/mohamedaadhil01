@@ -61,7 +61,7 @@
   <a href="https://x.com/mr_aadhil_01">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Twitter.svg" alt="Twitter" width="40" />
   </a>
-  <a href="https://wa.me/597771416615">
+  <a href="https://wa.me/+94771416615">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" />
   </a>
   <a href="mailto:personalaadhilhack@gmail.com">
